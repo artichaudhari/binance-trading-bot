@@ -152,19 +152,7 @@ python cli.py --symbol BTCUSDT --side SELL --type LIMIT --quantity 0.002 --price
 
 ---
 ⭐ **If you found this project helpful, don’t forget to star the repo!**
-## 📧 Contact
 
-👩‍💻 **Arti Chaudhari**
-🎓 BE Graduate '25 | Aspiring Data Analyst / Python Developer
 
-📩 Email: [chaudhariarti2146@gmail.com](mailto:chaudhariarti2146@gmail.com)
-🌐 GitHub: [https://github.com/artichaudhari](https://github.com/artichaudhari)
-💼 LinkedIn: [https://www.linkedin.com/in/arti-chaudhari-b998a82a9/](https://www.linkedin.com/in/arti-chaudhari-b998a82a9/)
-
----
-
-⭐ **If you found this project useful, don’t forget to star the repository!**
-
-```
 
 
